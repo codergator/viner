@@ -15,6 +15,7 @@ lxml = "*"
 
 [tool.poetry.dev-dependencies]
 autopep8 = "*"
+mypy = "*"
 pylint = "*"
 pytest = "*"
 python-language-server = "*"
