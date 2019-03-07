@@ -1,5 +1,5 @@
-amazon-vine
-===========
+Viner
+=====
 
 This program is a Python script that checks the list of products on your
 Amazon Vine queue and notifies you if a new item becomes available.
@@ -29,3 +29,7 @@ Here are the steps:
 
 The script will then load the cookies from your browser's cookie file,
 and then use those cookies to log into Amazon.com.
+
+Credits
+-------
+Python 2 version: @timur-tabi
