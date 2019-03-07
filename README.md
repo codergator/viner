@@ -32,4 +32,4 @@ and then use those cookies to log into Amazon.com.
 
 Credits
 -------
-Python 2 version: @timur-tabi
+Original Python 2 version: [@timur-tabi](https://github.com/timur-tabi)
